@@ -26,12 +26,6 @@ def selection_sort(L):
     print(L)
     return L
 
-
-         
-
-
-  
-
 selection_sort(L = [4,2,6,5,1,3])
 
 
